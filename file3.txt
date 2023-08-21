@@ -1,2 +1,2 @@
 commit 4 file3
-branch 1 commit 3 file3
+branch 1 commit 3 file3, commit -8
