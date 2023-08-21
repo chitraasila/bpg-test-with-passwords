@@ -1,2 +1,2 @@
 commit -2 
-branch1 commit-1
+branch1 commit-1, commit-6
